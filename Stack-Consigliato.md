@@ -134,3 +134,5 @@ In particolare viene fatta un analisi delle migliori pratiche nella scelta della
 
 15. **Rete Mobile o Bassa Potenza > MQTT / CoAP**
     - Utilizzato per dispositivi con consumi energetici ridotti, come sensori IoT o applicazioni mobili che operano su reti a bassa potenza o larghezza di banda limitata.
+
+---

@@ -121,3 +121,7 @@ Se mandi **un messaggio "Ciao"** con:
 ### - Puoi visualizzare anche una [Matrice Decisionale](Matrice-Decisionale.md) per capire come impostare ciascun tipo di applicazione.
 
 ---
+
+### Lista grafica dei protocolli di rete:
+
+![Protocolli di Rete](protocolli-di-rete.gif)
